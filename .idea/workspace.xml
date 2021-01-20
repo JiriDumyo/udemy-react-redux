@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8203dd1d-66ac-4ddf-a66a-5e62acdb0c88" name="デフォルト変更リスト" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/events_new.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/events_new.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/events_show.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/events_show.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/events.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/events.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/events_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/events_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610872320244</updated>
-      <workItem from="1610872323827" duration="13831000" />
+      <workItem from="1610872323827" duration="16598000" />
     </task>
     <servers />
   </component>
